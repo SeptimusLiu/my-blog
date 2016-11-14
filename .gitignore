@@ -1,0 +1,5 @@
+/node_modules/
+/content/
+/core/built/
+config.js
+.DS_Store

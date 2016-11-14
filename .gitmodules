@@ -1,0 +1,3 @@
+[submodule "content/themes/ghost-theme-notebook"]
+	path = content/themes/ghost-theme-notebook
+	url = https://github.com/SeptimusLiu/ghost-theme-notebook.git

@@ -1,5 +1,7 @@
 /node_modules/
-/content/
+/content/images/
+/content/data/
+/content/themes/casper/
 /core/built/
 config.js
 .DS_Store

@@ -3,5 +3,7 @@
 /content/data/
 /content/themes/casper/
 /core/built/
+log
+*.log
 config.js
 .DS_Store
